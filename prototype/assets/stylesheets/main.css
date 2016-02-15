@@ -27,13 +27,15 @@ body{
     background: url("../images/bg.png");
     margin-top: 150px;
     word-wrap: break-word;
-    height: 100%;
-    overflow: hidden;
+    margin-bottom: 150px;
 }
 .progress-wrapper {
     display: none;
 }
-
+.noscroll{
+    height: 100%;
+    overflow: hidden;
+}
 
 .disable img {
     opacity: 0.4;

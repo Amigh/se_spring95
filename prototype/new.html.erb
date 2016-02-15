@@ -1,28 +1,5 @@
-<div class="ui sixteen wide mobile twelve wide tablet eight wide computer column">
-<div class="ui grid centered">
-  <div class="eight wide column">
-    <div class="ui segment ">
-      <%= form_for(resource, as: resource_name, url: session_path(resource_name) ,:html => {:class => 'ui form',:style =>'text-align:left;'}) do |f| %>
-
-          <div class="field">
-            <%= f.label :email %>
-            <div class='ui right icon input'>
-              <%= f.email_field :email, autofocus: true ,:style =>'text-align:left;'%>
-              <i class=' mail icon'></i>
-            </div>
-          </div>
-
-          <div class="field">
-            <%= f.label :password %>
-            <div class="ui right icon input">
-              <%= f.password_field :password, autocomplete: "off" ,:style =>'text-align:left;'%>
-              <i class="lock icon"></i>
-            </div>
-          </div>
-          <div><%= f.submit 'Log in',class:'ui green button fluid' %></div>
-      <% end %>
-    </div>
-
+<div class="ui sixteen wide mobile twelve wide tablet eight wide computer column ">
+  <div class="ui green segment">
+    <%= render 'form' %>
   </div>
-</div>
 </div>
