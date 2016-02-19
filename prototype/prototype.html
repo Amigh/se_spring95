@@ -12,7 +12,7 @@
 		<div class="ui grid centered">
 			<div class="six wide column">
 				<div class="ui segment ">
-					<div class="ui form">
+					<div class="ui form" name="loginForm" >
 						<h2 class="ui center aligned icon header">
 							<i class="shipping icon"></i>
 							<div class="content">
@@ -24,21 +24,21 @@
 						</h2>
 						<div class="field">
 							<div class='ui right icon input'>
-								<input placeholder="نام کاربری">
+								<input placeholder="نام کاربری" name="username">
 								<i class=' user icon'></i>
 							</div>
 						</div>
 
 						<div class="field">
 							<div class="ui right icon input">
-								<input placeholder="رمز عبور">
+								<input placeholder="رمز عبور" name="password" type="password">
 								<i class="lock icon"></i>
 							</div>
 						</div>
 						<div>
-							<button class="ui primary button fluid">
+							<a class="ui primary button fluid" href="dashboard.html">
 								ورود
-							</button>
+							</a>
 						</div>
 					</div>
 
@@ -48,8 +48,18 @@
 		</div>
 	</div>
 
-
-
 </body>
+<script type="text/javascript">
+	function login() {
+		var username = document.getElementsByName("username").value;
+		var password = document.getElementsByName("password").value;
+		if (username == "ali@gomrok.com"  && password == "123456") {
+			window.location.assign = "dashboard.html";
+		}
+		else{
+			alert(username + password);
+		}
+	}
+</script>
 
 </html>
