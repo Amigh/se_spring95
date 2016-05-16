@@ -1,0 +1,21 @@
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\bin\Debug\gomrokP1.exe
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\bin\Debug\gomrokP1.pdb
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.Properties.Resources.resources
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.csproj.GenerateResource.Cache
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.exe
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.pdb
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.loginForm.resources
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.MainForm.resources
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.AddGoodForm.resources
+C:\Users\Amirhosein\AppData\Local\Temporary Projects\gomrokP1\obj\x86\Debug\gomrokP1.EzharForm.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.exe
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.pdb
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\bin\Debug\gomrokP1.exe
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\bin\Debug\gomrokP1.pdb
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.AddGoodForm.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.EzharForm.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.LoginForm.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.MainForm.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.Properties.Resources.resources
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.csproj.GenerateResource.Cache
+C:\Users\Amirhosein\Desktop\gomrokP1\gomrokP1\obj\x86\Debug\gomrokP1.signUpForm.resources
