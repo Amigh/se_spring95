@@ -84,6 +84,7 @@
     <Compile Include="signUpForm.Designer.cs">
       <DependentUpon>signUpForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="userDAO.cs" />
     <EmbeddedResource Include="AddGoodForm.resx">
       <DependentUpon>AddGoodForm.cs</DependentUpon>
     </EmbeddedResource>
